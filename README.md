@@ -1,4 +1,5 @@
 # Fragrance-Scraper
+
 Web Scraper to get current market prices of popular colognes. 
 
 ulta.py Scrapes all the cologne name, size, and brand from ULTA beauty
